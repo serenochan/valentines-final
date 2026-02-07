@@ -83,3 +83,5 @@ export default function Valentine() {
     </section>
   );
 }
+
+<section className="valentine-box select-none min-h-screen bg-gradient-to-br from-pink-200 via-pink-300 to-pink-400 flex flex-col justify-center">
