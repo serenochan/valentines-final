@@ -76,7 +76,7 @@ export default function Valentine() {
             height={250}
           />
           <div className="text-center text-2xl mt-2 text-gray-900">
-            Yay! Now I&apos;m happy!
+            Yay! Now I&apos;m happy! I love you my crushiecakes!
           </div>
         </>
       )}
