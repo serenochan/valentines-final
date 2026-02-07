@@ -31,7 +31,7 @@ export default function Valentine() {
   };
 
   return (
-    <section className="valentine-box select-none min-h-screen w-full bg-gradient-to-br from-pink-200 via-pink-300 to-pink-400 flex flex-col justify-center items-center">
+    <section className="valentine-box select-none min-h-screen w-full flex flex-col justify-center items-center bg-gradient-to-br from-pink-200 via-pink-300 to-pink-400">
       {stage === Stages.stageNo && (
         <>
           <div className="text-center">
